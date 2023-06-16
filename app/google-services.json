@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912089971206",
+    "project_id": "mad---agriq",
+    "storage_bucket": "mad---agriq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912089971206:android:dc6bdc47a574ab9b762187",
+        "android_client_info": {
+          "package_name": "com.example.mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912089971206-hq98rnfcbq98i113cagddf1ieehd35oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXe9bQXNhPffatAAX6pn4ED8DCSan7_8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912089971206-hq98rnfcbq98i113cagddf1ieehd35oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
